@@ -1,5 +1,5 @@
-import Calculator from './calculator.js';
-import Parser from './parser.js';
+import Calculator from './core/calculator.js';
+import Parser from './core/parser.js';
 import * as readline from 'node:readline/promises';
 import {
     stdin as input,

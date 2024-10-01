@@ -1,4 +1,4 @@
-import Parser from '../src/parser.js';
+import Parser from '../src/core/parser.js';
 import { expect } from 'chai';
 
 describe('Parser', () => {

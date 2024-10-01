@@ -1,7 +1,7 @@
-import addition from './operations/addition.js';
-import subtraction from './operations/subtraction.js';
-import multiplication from './operations/multiplication.js';
-import division from './operations/division.js';
+import addition from '../operations/addition.js';
+import subtraction from '../operations/subtraction.js';
+import multiplication from '../operations/multiplication.js';
+import division from '../operations/division.js';
 
 const operations = {
   '+': addition,
