@@ -1,0 +1,1 @@
+export default function execute(a, b) { return a + b; }
